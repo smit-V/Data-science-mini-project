@@ -1,1 +1,1 @@
-# Data-science-mini-project
+# Password Strength Checker
